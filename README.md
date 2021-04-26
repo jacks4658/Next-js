@@ -1,7 +1,7 @@
 
 ![React Avançado](https://firebasestorage.googleapis.com/v0/b/aplicativo-35650.appspot.com/o/ser%20modif.png?alt=media&token=792b041a-4c25-4c25-8d54-7021d05b568b)
 
-[LinkedIn](https://www.linkedin.com/in/jackson-oliveira-06ab79194/) Site jk em desenvovimento [Jk System](https://www.jksystem.com.br/Download.html).
+Site jk em desenvovimento [Jk System](https://www.jksystem.com.br/Download.html).
 
 ## quem esta por tras?
 
@@ -40,4 +40,19 @@ Abrindo [http://localhost:3000](http://localhost:3000) que aparecerá no Navegad
 - `test:watch`: executa jest no watch mode
 - `storybook`: executa storybook no `localhost:6006`
 - `build-storybook`: crie a versão de compilação storybook
+
+
+
+<a href="https://www.linkedin.com/in/jackson-oliveira-06ab79194">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="#">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <a href="#">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <a href="#">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<a href="#">
+     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
 
